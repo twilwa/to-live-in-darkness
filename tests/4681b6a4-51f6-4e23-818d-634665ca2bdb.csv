@@ -1,0 +1,2 @@
+day,accessor,endpoint,features,models,tags,deployment,hours,total_hours,agent_hours,tokens_in,tokens_out,tts_characters,requests
+2025-09-24,a83188f4-e281-4304-977c-417dbd6cc628,listen,"""endpointing"",""interim_results"",""punctuate""","","",hosted,0,0,0,0,0,0,7

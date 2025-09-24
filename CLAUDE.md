@@ -65,7 +65,8 @@ DISCORD_PUBLIC_KEY=
 
 # Voice & AI Services
 DEEPGRAM_API_KEY=
-OPENAI_API_KEY= # or ANTHROPIC_API_KEY
+OPENROUTER_API_KEY= # For LLM (OpenAI-compatible)
+OPENROUTER_MODEL= # e.g., claude-3-sonnet, gpt-4, etc.
 
 # Obsidian
 OBSIDIAN_API_KEY=
